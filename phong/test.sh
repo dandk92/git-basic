@@ -1,0 +1,4 @@
+
+echo 'aaa';
+
+print 'xx';
